@@ -1,6 +1,3 @@
-The site is live at https://mmm1122.github.io/CyberPerler/
-
-
 # CyberPerler
 
 A web tool to convert your photos into custom Perler bead patterns.
